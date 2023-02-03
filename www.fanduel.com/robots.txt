@@ -1,0 +1,13 @@
+Sitemap: https://www.fanduel.com/sitemap.xml
+
+User-agent: *
+allow: /weather/
+allow: /p/Interstitial
+allow: /games/
+allow: /e/User/
+allow: /lineups/
+allow: /*?invitedby
+allow: /users/
+allow: /theduel/users
+allow: /users/*
+
